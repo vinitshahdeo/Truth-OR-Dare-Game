@@ -25,6 +25,6 @@ Enjoy the wonderful game of Truth or Dare. Have fun with your buddies! It’s a 
 
 ##### Image Source - http://icebreakerideas.com/
 
-## For demo, click below - http://vinitshahdeo.com/game/
+## For demo, visit - http://vinitshahdeo.com/game/
 
 ### Report bugs at vinitshahdeo@gmail.com
