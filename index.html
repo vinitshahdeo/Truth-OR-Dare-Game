@@ -1,0 +1,160 @@
+<!DOCTYPE html>
+
+<!-- Developed By Vinit Shahdeo -->
+
+<!-- Report bugs here - vinitshahdeo@gmail.com -->
+
+<html>
+<head>
+
+<title>Truth or Dare - Online Game</title>
+
+<meta charset="utf-8">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+<meta name="viewport" content="width=device-width, initial-scale = 1.0, user-scalable = no">
+<meta name="description" content="Enjoy the wonderful game of Truth or Dare online for free. Have fun with your buddies! It’s a great way to learn more about your friends.">
+<meta name="author" content="Vinit Shahdeo">
+
+<meta property="og:type" content="game" /> 
+<meta property="og:title" content="Truth OR Dare - Play Online for FREE!" />
+<meta property="og:description" content="Enjoy the wonderful game of Truth or Dare online for free. Have fun with your buddies! It’s a great way to learn more about your friends." />
+<meta property="og:image" content="http://www.vinitshahdeo.com/game/img/bg.jpg" />
+<meta property="og:url" content="http://www.vinitshahdeo.com/game" />
+<meta property="og:site_name" content="Truth OR Dare" />
+
+<meta name="twitter:card" content="game">
+<meta name="twitter:site" content="Truth or Dare">
+<meta name="twitter:title" content="Truth OR Dare - Play Online for FREE!">
+<meta name="twitter:description" content="Enjoy the wonderful game of Truth or Dare online for free. Have fun with your buddies! It’s a great way to learn more about your friends.">
+<meta name="twitter:creator" content="@Vinit_Shahdeo">
+<meta name="twitter:image" content="http://www.vinitshahdeo.com/game/img/background.jpg">
+
+<meta itemprop="name" content="Truth or Dare">
+<meta itemprop="description" content="Enjoy the wonderful game of Truth or Dare online for free. Have fun with your buddies! It’s a great way to learn more about your friends.">
+<meta itemprop="image" content="http://www.vinitshahdeo.com/game/img/bg.jpg">
+
+<title>Truth OR Dare - Play Online for FREE!</title>
+
+<link rel="shortcut icon" href="img/favicon.png" type="image/png" />
+<link href="css/style.css" rel="stylesheet" type="text/css" media="screen" />
+<link href='https://fonts.googleapis.com/css?family=Montserrat:400,300,600,700,800' rel='stylesheet' type='text/css'>
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.1/css/font-awesome.min.css">
+
+</head>
+
+<body>
+	
+<div class="wrapper">
+		<div class='oss-widget-interface'></div>
+		<div class="header">
+
+			<div class="outer">
+				<div class="inner">
+					<h1 id="logo">Truth OR Dare</span></h1>
+				</div>
+			</div>
+			
+			<div class="content-wrap">
+				<div class="comingsoon">
+					<p id="test"> Click on truth/dare button to start playing!</p>
+				</div>
+	
+				<div class="content">
+					<p class="print">
+					<span
+     				class="txt-rotate"
+     				data-period="2000"
+     				data-rotate='[ "Truth","OR","Dare","Truth","AND","Dare"]'></span></p>
+					<button type="button" class="button" onclick="truth()">Truth</button>
+          <button type="button"  class="button" onclick="dare()">Dare</button>
+				</div>
+			</div>
+				
+		</div> 
+					
+		<div class="social">
+		    <br/>
+		    <p style="color: #68b2b1" id="count">Developed by Vinit Shahdeo</p>
+		    <p id="count" style="color: #68b2b1"></p>
+        <br/>
+		    <button type="button" class="button button1 button2" onclick="finish()">Finish</button>
+        <br/> <br/>
+        <a href="#" class="fa-stack fa-lg">
+         <i class="fa fa-circle fa-stack-2x"></i>
+         <i class="fa fa-facebook fa-stack-1x fa-inverse"></i>
+        </a>
+        <a href="#" class="fa-stack fa-lg">
+         <i class="fa fa-circle fa-stack-2x"></i>
+         <i class="fa fa-twitter fa-stack-1x fa-inverse"></i>
+        </a>
+        <a href="#" class="fa-stack fa-lg">
+         <i class="fa fa-circle fa-stack-2x"></i>
+         <i class="fa fa-linkedin fa-stack-1x fa-inverse"></i>
+        </a>
+		</div>
+</div>
+
+<script>
+
+  var count=0;
+  var t=0;
+  var d=0;
+
+  function truth()
+  {
+  var xhttp = new XMLHttpRequest();
+  xhttp.onreadystatechange=function(){
+    if(this.readyState==4&this.status==200)
+    {
+      document.getElementById("test").innerHTML=this.responseText;
+      count++;
+      t++;
+      document.getElementById("count").innerHTML="Rounds = "+count;
+    }
+  };
+  xhttp.open("get","refresh.php?choice=truth",true);
+  xhttp.send();
+  }
+
+  function dare()
+  {
+  var xhttp = new XMLHttpRequest();
+  xhttp.onreadystatechange=function(){
+    if(this.readyState==4&this.status==200)
+    {
+      document.getElementById("test").innerHTML=this.responseText;
+      count++;
+      d++;
+      document.getElementById("count").innerHTML="Rounds = "+count;
+    }
+  };
+  xhttp.open("get","refresh.php?choice=dare",true);
+  xhttp.send();
+  }
+
+  function finish()
+  {
+  var xhttp = new XMLHttpRequest();
+  xhttp.onreadystatechange=function(){
+    if(this.readyState==4&this.status==200)
+    {
+      document.getElementById("test").innerHTML=this.responseText;
+    }
+  };
+  xhttp.open("get","count.php?num="+t+"&num1="+d,true);
+  xhttp.send();
+  }
+
+</script>
+
+<script src="js/index.js"></script>
+ 
+</body>
+
+<!-- Thank You for Visiting!-->
+
+<!-- Made in Fun for Fun-->
+
+<!--Copyright 2017 | Vinit Shahdeo -->
+
+</html>
