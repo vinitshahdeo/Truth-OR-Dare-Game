@@ -28,3 +28,5 @@ Enjoy the wonderful game of Truth or Dare. Have fun with your buddies! It’s a 
 ## For demo, visit - http://vinitshahdeo.com/game/
 
 ### Report bugs at vinitshahdeo@gmail.com
+
+#### Thank You!
