@@ -24,3 +24,7 @@ Enjoy the wonderful game of Truth or Dare. Have fun with your buddies! It’s a 
 (https://github.com/vinitshahdeo/Truth-OR-Dare-Game/blob/master/img/screenshot4.PNG)
 
 ##### Image Source - http://icebreakerideas.com/
+
+## For demo, click below - http://vinitshahdeo.com/game/
+
+### Report bugs at vinitshahdeo@gmail.com
