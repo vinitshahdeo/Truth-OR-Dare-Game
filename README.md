@@ -17,15 +17,16 @@ The rules are simple! One player starts off by clicking on, “**truth** or **da
 
 Regardless of the choice, it’s a fun game for everyone, and the room is sure to be filled with roaring laughter! To keep the game fun, make sure your truth questions deal with a sore topic that could embarrass them, and make sure the dares don't send anyone to the emergency room or jail! [Click here](http://vinitshahdeo.com/projects/TruthAndDare/) to start!
 
-## Share with Friends!
-
-Thank you for being here! 
-**Share this fun game with your friends!!**
- 
-[![Twitter](https://img.shields.io/twitter/url/https://github.com/vinitshahdeo/Truth-OR-Dare-Game.svg?style=social)](https://twitter.com/intent/tweet?text=Play%20Truth%20And%20Dare%20Game%20Now!!:&url=http://vinitshahdeo.com/projects/TruthAndDare/)
 
 ## Screenshot
 
 ![Truth and Dare Game](https://github.com/vinitshahdeo/Truth-OR-Dare-Game/blob/master/img/screenshot1.PNG)
 
 <hr>
+
+## Share with Friends!
+
+Thank you for being here! 
+**Share this fun game with your friends!!**
+ 
+[![Twitter](https://img.shields.io/twitter/url/https://github.com/vinitshahdeo/Truth-OR-Dare-Game.svg?style=social)](https://twitter.com/intent/tweet?text=Play%20Truth%20And%20Dare%20Game%20Now!!:&url=http://vinitshahdeo.com/projects/TruthAndDare/)
