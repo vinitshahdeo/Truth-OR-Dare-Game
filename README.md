@@ -13,7 +13,7 @@ Whether you’re going to a sleepover, a party, or just a little get together wi
 
 ## How to Play?
 
-The rules are simple! One player starts off by clicking on, “**truth** or **dare**" button. If the player clicks “**truth**”, a question will appear on the screen that he/she must answer honestly. If he/she chooses “dare,” he/she will be given a command or some kind of action/task he/she need to perform.
+The rules are simple! One player starts off by clicking on, “**truth** or **dare**" button. If the player clicks “**truth**”, a question will appear on the screen that he/she must answer honestly. If he/she chooses “**dare**”, he/she will be given a command or some kind of action/task he/she need to perform.
 
 Regardless of the choice, it’s a fun game for everyone, and the room is sure to be filled with roaring laughter! To keep the game fun, make sure your truth questions deal with a sore topic that could embarrass them, and make sure the dares don't send anyone to the emergency room or jail! [Click here](http://vinitshahdeo.com/projects/TruthAndDare/) to start!
 
