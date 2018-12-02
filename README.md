@@ -1,4 +1,4 @@
-# Truth OR Dare Game
+# Truth OR Dare [[Play Now](http://vinitshahdeo.com/projects/TruthAndDare/)]
 > Basic implementation of **Ajax** with **PHP**
 
 [![Truth Dare](https://img.shields.io/badge/Truth-Dare-teal.svg?style=for-the-badge)](https://github.com/vinitshahdeo/Truth-OR-Dare-Game) 
