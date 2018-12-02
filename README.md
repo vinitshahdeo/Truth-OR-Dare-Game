@@ -1,23 +1,14 @@
 # Truth OR Dare Game
-> Basic implementation of AJAX with PHP
+> Basic implementation of **Ajax** with **PHP**
 
 #### Enjoy the wonderful game of Truth or Dare. Have fun with your buddies! It’s a great way to learn more about your friends.
 
 ## Screenshots
 
-#### Screenshot - 1
-![Screenshot of homepage](https://github.com/vinitshahdeo/Truth-OR-Dare-Game/blob/master/img/screenshot1.PNG)
+![Truth and Dare Game](https://github.com/vinitshahdeo/Truth-OR-Dare-Game/blob/master/img/screenshot1.PNG)
 
-![Screenshot of homepage](https://github.com/vinitshahdeo/Truth-OR-Dare-Game/blob/master/img/screenshot2.PNG)
+<hr>
 
-![Screenshot of homepage](https://github.com/vinitshahdeo/Truth-OR-Dare-Game/blob/master/img/screenshot3.PNG)
-
-![Screenshot of homepage](https://github.com/vinitshahdeo/Truth-OR-Dare-Game/blob/master/img/screenshot4.PNG)
-
-##### Image Source - http://icebreakerideas.com/
-
-## For demo, visit - http://vinitshahdeo.com/game/
-
-### Report bugs at vinitshahdeo@gmail.com
-
-#### Thank You!
+[![Truth Dare](https://img.shields.io/badge/Truth-Dare-teal.svg?style=for-the-badge)](https://github.com/vinitshahdeo/Truth-OR-Dare-Game) 
+[![Play Now](https://img.shields.io/badge/Think-Big-orange.svg?style=for-the-badge)](http://vinitshahdeo.com/projects/TruthAndDare/)
+[![Just For Fun](https://img.shields.io/badge/Just-For&nbsp;Fun-blue.svg?style=for-the-badge)](https://github.com/vinitshahdeo/)
