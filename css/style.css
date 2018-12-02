@@ -33,18 +33,21 @@ text-align: center;
     -webkit-transition-duration: 0.4s; 
     transition-duration: 0.4s;
     cursor: pointer;
+    outline: none;
 }
 
 .button1 {
     background-color: #68b2b1 ; 
     color: #fff; 
     border: none;
+    outline: none;
 }
 
 .button2:hover {
     background-color: #444 ; 
     color: #fff; 
     border: none;
+    outline: none;
 }
 
 
