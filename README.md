@@ -10,5 +10,5 @@
 <hr>
 
 [![Truth Dare](https://img.shields.io/badge/Truth-Dare-teal.svg?style=for-the-badge)](https://github.com/vinitshahdeo/Truth-OR-Dare-Game) 
-[![Play Now](https://img.shields.io/badge/Think-Big-orange.svg?style=for-the-badge)](http://vinitshahdeo.com/projects/TruthAndDare/)
+[![Play Now](https://img.shields.io/badge/Play-Now-orange.svg?style=for-the-badge)](http://vinitshahdeo.com/projects/TruthAndDare/)
 [![Just For Fun](https://img.shields.io/badge/Just-For&nbsp;Fun-blue.svg?style=for-the-badge)](https://github.com/vinitshahdeo/)
