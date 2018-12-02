@@ -10,8 +10,7 @@ Enjoy the wonderful game of Truth or Dare. Have fun with your buddies! It’s a 
 ![Screenshot of homepage](https://github.com/vinitshahdeo/Truth-OR-Dare-Game/blob/master/img/screenshot1.PNG)
 
 #### Screenshot - 2
-![<Screenshot of homepage>]
-(https://github.com/vinitshahdeo/Truth-OR-Dare-Game/blob/master/img/screenshot2.PNG)
+![Screenshot of homepage](https://github.com/vinitshahdeo/Truth-OR-Dare-Game/blob/master/img/screenshot2.PNG)
 
 #### Screenshot - 3
 ![Screenshot of homepage](https://github.com/vinitshahdeo/Truth-OR-Dare-Game/blob/master/img/screenshot3.PNG)
