@@ -27,6 +27,6 @@ Regardless of the choice, it’s a fun game for everyone, and the room is sure t
 ## Share with Friends!
 
 Thank you for being here! 
-**Share this fun game with your friends!!**
+**[Share](https://twitter.com/intent/tweet?text=Play%20Truth%20And%20Dare%20Game%20Now!!:&url=http://vinitshahdeo.com/projects/TruthAndDare/) this fun game with your friends!!**
  
 [![Twitter](https://img.shields.io/twitter/url/https://github.com/vinitshahdeo/Truth-OR-Dare-Game.svg?style=social)](https://twitter.com/intent/tweet?text=Play%20Truth%20And%20Dare%20Game%20Now!!:&url=http://vinitshahdeo.com/projects/TruthAndDare/)
